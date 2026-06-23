@@ -1,0 +1,120 @@
+body {
+    background: #f5f7fa;
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+.header-produk {
+    background: linear-gradient(135deg, #0D47A1, #1565C0);
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.header-produk h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.header-produk p {
+    font-size: 18px;
+}
+
+/* Tombol Kembali */
+.kembali {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.btn-kembali {
+    text-decoration: none;
+    background: #0D47A1;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.btn-kembali:hover {
+    background: #08306B;
+}
+
+/* Judul */
+.judul {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.judul h2 {
+    font-size: 35px;
+    color: #0D47A1;
+}
+
+.judul p {
+    color: #666;
+}
+
+/* Produk */
+.produk-container {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    padding-bottom: 50px;
+}
+
+.produk-card {
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.produk-card:hover {
+    transform: translateY(-10px);
+}
+
+.produk-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.produk-card h3 {
+    margin: 20px 20px 10px;
+    color: #0D47A1;
+}
+
+.harga {
+    margin-left: 20px;
+    color: #1565C0;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.produk-card button {
+    margin: 20px;
+    width: calc(100% - 40px);
+    padding: 12px;
+    border: none;
+    background: #1976D2;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.produk-card button:hover {
+    background: #0D47A1;
+}
+
+/* Footer */
+footer {
+    background: #0D47A1;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

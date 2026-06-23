@@ -1,0 +1,205 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f4f8fc;
+}
+
+/* Header */
+header {
+    background: #0D47A1;
+    color: white;
+    padding: 20px 0;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav ul li a:hover {
+    color: #BBDEFB;
+}
+
+/* Hero */
+.hero {
+    background: linear-gradient(135deg, #0D47A1, #1565C0);
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h2 {
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+/* Tombol Belanja Sekarang */
+.btn {
+    display: inline-block;
+    background: #1565C0;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: #0D47A1;
+    transform: scale(1.05);
+}
+
+/* Kategori */
+.kategori {
+    padding: 50px;
+    text-align: center;
+}
+
+.kategori h2 {
+    color: #0D47A1;
+}
+
+.kategori-box {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 250px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    padding: 20px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+.card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.card h3 {
+    margin-top: 15px;
+    color: #0D47A1;
+}
+
+.card p {
+    color: #1976D2;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Produk */
+.produk {
+    padding: 50px;
+    text-align: center;
+    background: white;
+}
+
+.produk-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.produk-card {
+    background: #f8f8f8;
+    padding: 20px;
+    width: 280px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.produk-card:hover {
+    transform: translateY(-8px);
+}
+
+.produk-card img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.produk-card h3 {
+    margin-top: 15px;
+    color: #0D47A1;
+}
+
+.produk-card p {
+    color: #1976D2;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Judul */
+.judul {
+    text-align: center;
+    margin-top: 40px;
+    color: #0D47A1;
+    font-size: 40px;
+}
+
+/* Tentang */
+.tentang {
+    text-align: center;
+    padding: 50px;
+}
+
+.tentang h2 {
+    color: #0D47A1;
+}
+
+.tentang p {
+    margin-top: 20px;
+    color: #555;
+}
+
+/* Footer */
+footer {
+    background: #0D47A1;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
