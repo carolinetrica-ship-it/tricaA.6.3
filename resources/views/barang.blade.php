@@ -11,7 +11,7 @@
 
     <!-- Header -->
     <header class="header-produk">
-        <h1>Kedai Sembako Robby Harianto KDKMP</h1>
+        <h1>Kedai Sembako Trica KDKMP</h1>
         <p>Kebutuhan Pokok Lengkap dan Terjangkau</p>
     </header>
 
@@ -75,7 +75,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>©  Kedai Sembako KDKMP Robby</p>
+        <p>©  Kedai Sembako KDKMP Trica</p>
     </footer>
 
 </body>

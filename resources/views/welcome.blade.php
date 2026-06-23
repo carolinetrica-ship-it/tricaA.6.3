@@ -12,7 +12,7 @@
     <!-- Navbar -->
     <header>
         <div class="container">
-            <h1>KDKMP ROBBY</h1>
+            <h1>KDKMP TRICA</h1>
             <nav>
                 <ul>
                     <li><a href="#">Beranda</a></li>
@@ -76,14 +76,14 @@
     <section class="tentang">
         <h2>Tentang KDKMP</h2>
         <p>
-            KDKMP Kedai Kelontong Robby adalah toko kelontong yang menyediakan berbagai kebutuhan sehari-hari dengan harga terjangkau dan kualitas terbaik. Kami berkomitmen memberikan pelayanan yang ramah, produk yang lengkap, serta kemudahan berbelanja bagi masyarakat sekitar.
+            KDKMP Kedai Kelontong Trica adalah toko kelontong yang menyediakan berbagai kebutuhan sehari-hari dengan harga terjangkau dan kualitas terbaik. Kami berkomitmen memberikan pelayanan yang ramah, produk yang lengkap, serta kemudahan berbelanja bagi masyarakat sekitar.
 
-Dengan mengutamakan kepuasan pelanggan, KDKMP Kedai Kelontong Robby hadir sebagai solusi kebutuhan rumah tangga yang praktis, nyaman, dan terpercaya.
+Dengan mengutamakan kepuasan pelanggan, KDKMP Kedai Kelontong Trica hadir sebagai solusi kebutuhan rumah tangga yang praktis, nyaman, dan terpercaya.
     </section>
 
     <!-- Footer -->
     <footer>
-        <p>© Kedai Sembako KDKMP Robby Afrian Prima</p>
+        <p>© Kedai Sembako KDKMP Trica</p>
     </footer>
 
 </body>

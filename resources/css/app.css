@@ -7,12 +7,12 @@
 }
 
 body {
-    background: #f4f8fc;
+    background: #f4ffff;
 }
 
 /* Header */
 header {
-    background: #0D47A1;
+    background: #48D1CC;
     color: white;
     padding: 20px 0;
 }
@@ -41,12 +41,12 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #BBDEFB;
+    color: #E0FFFF;
 }
 
 /* Hero */
 .hero {
-    background: linear-gradient(135deg, #0D47A1, #1565C0);
+    background: linear-gradient(135deg, #48D1CC, #5FDED9);
     color: white;
     text-align: center;
     padding: 100px 20px;
@@ -65,7 +65,7 @@ nav ul li a:hover {
 /* Tombol Belanja Sekarang */
 .btn {
     display: inline-block;
-    background: #1565C0;
+    background: #48D1CC;
     color: white;
     padding: 15px 35px;
     border-radius: 10px;
@@ -76,7 +76,7 @@ nav ul li a:hover {
 }
 
 .btn:hover {
-    background: #0D47A1;
+    background: #20B2AA;
     transform: scale(1.05);
 }
 
@@ -87,7 +87,7 @@ nav ul li a:hover {
 }
 
 .kategori h2 {
-    color: #0D47A1;
+    color: #48D1CC;
 }
 
 .kategori-box {
@@ -119,11 +119,11 @@ nav ul li a:hover {
 
 .card h3 {
     margin-top: 15px;
-    color: #0D47A1;
+    color: #48D1CC;
 }
 
 .card p {
-    color: #1976D2;
+    color: #20B2AA;
     font-size: 20px;
     font-weight: bold;
     margin-top: 10px;
@@ -164,11 +164,11 @@ nav ul li a:hover {
 
 .produk-card h3 {
     margin-top: 15px;
-    color: #0D47A1;
+    color: #48D1CC;
 }
 
 .produk-card p {
-    color: #1976D2;
+    color: #20B2AA;
     font-weight: bold;
     margin-top: 10px;
 }
@@ -177,7 +177,7 @@ nav ul li a:hover {
 .judul {
     text-align: center;
     margin-top: 40px;
-    color: #0D47A1;
+    color: #48D1CC;
     font-size: 40px;
 }
 
@@ -188,7 +188,7 @@ nav ul li a:hover {
 }
 
 .tentang h2 {
-    color: #0D47A1;
+    color: #48D1CC;
 }
 
 .tentang p {
@@ -198,7 +198,7 @@ nav ul li a:hover {
 
 /* Footer */
 footer {
-    background: #0D47A1;
+    background: #48D1CC;
     color: white;
     text-align: center;
     padding: 20px;
